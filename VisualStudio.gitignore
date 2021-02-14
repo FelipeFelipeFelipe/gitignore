@@ -10,8 +10,7 @@
 *.userosscache
 *.sln.docstates
 
-# User-specific files (MonoDevelop/Xamarin Studio)
-*.userprefs
+
 
 # Mono auto generated files
 mono_crash.*
@@ -294,11 +293,6 @@ node_modules/
 *.vbw
 
 # Visual Studio LightSwitch build output
-**/*.HTMLClient/GeneratedArtifacts
-**/*.DesktopClient/GeneratedArtifacts
-**/*.DesktopClient/ModelManifest.xml
-**/*.Server/GeneratedArtifacts
-**/*.Server/ModelManifest.xml
 _Pvt_Extensions
 
 # Paket dependency manager
